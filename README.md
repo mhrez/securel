@@ -1,0 +1,2 @@
+# securel
+safelink.js
